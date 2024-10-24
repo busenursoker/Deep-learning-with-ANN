@@ -4,6 +4,9 @@
 
 This project aims to classify fish species from images using a custom-built Artificial Neural Network (ANN). We worked with a large-scale fish dataset from Kaggle, containing multiple species. The model processes image data, trains an ANN to recognize the species based on patterns in the images, and achieves a notable accuracy after thorough preprocessing and hyperparameter tuning.
 
+- The Data set i've used in this project : https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset
+- Kaggle link to see the output and data visuals : https://www.kaggle.com/code/busenursker/deep-learning
+
 ---
 
 ## Project Workflow
